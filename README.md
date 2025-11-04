@@ -1,5 +1,3 @@
-# Entrio-zadatak1
-
 # Enrio Tickets – PHP/MySQL Zadatak 1: 
 
 Opis zadatka
